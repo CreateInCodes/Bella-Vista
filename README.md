@@ -9,4 +9,4 @@ A responsive restaurant website built using pure HTML & CSS.
 - Contact & reservation section
 - Modern footer design
 
-🔗 Live Demo: https://yourusername.github.io/bella-vista-restaurant-website/
+🔗 Live Demo: https://createincodes.github.io/Bella-Vista/
